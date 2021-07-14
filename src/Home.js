@@ -2,7 +2,7 @@
 
 import './App.css';
 import React, { useState } from 'react';
-import Format from './Format';
+import { UrlFormatter } from 'url-formatter';
 
 function Home() {
 
@@ -25,7 +25,7 @@ function Home() {
           <h3 style={{'marginTop': '40px'}}>Formatted</h3>
           <div className='break' />
 
-          <Format text={text} />
+          <UrlFormatter text={text} />
 
         </div>
       </div>
