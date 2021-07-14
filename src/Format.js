@@ -50,7 +50,7 @@ function Format(props) {
             <a className='word'
               rel='noopener noreferrer'
               target='_blank'
-              href={value}
+              href={value.includes('//') ? value : '//'+value}
               key={index}>
                 {value}
             </a>
