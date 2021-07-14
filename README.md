@@ -1,3 +1,14 @@
+## Url-Formatter
+
+* This is a simple react project to format urls of text
+* Technologies used:
+    * [ReactJs](https://reactjs.org) (with npx create-react-app)
+    * [react-bootstrap](https://react-bootstrap.github.io)
+
+* The web app uses the simple javascript code snippet  at `Format.js` file to split the text
+* Then, a regural expression is used during render, and with some HTML and CSS simple tricks, the urls ar displayed as clickable hrefs
+* Most importantly, the initial text format (spaces, new lines, etc) remains the same.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
