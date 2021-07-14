@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/url-formatter/static/css/main.076486a0.chunk.css",
+    "main.js": "/url-formatter/static/js/main.245d9230.chunk.js",
+    "main.js.map": "/url-formatter/static/js/main.245d9230.chunk.js.map",
+    "runtime-main.js": "/url-formatter/static/js/runtime-main.ad7ebb14.js",
+    "runtime-main.js.map": "/url-formatter/static/js/runtime-main.ad7ebb14.js.map",
+    "static/css/2.4be38407.chunk.css": "/url-formatter/static/css/2.4be38407.chunk.css",
+    "static/js/2.701e78c8.chunk.js": "/url-formatter/static/js/2.701e78c8.chunk.js",
+    "static/js/2.701e78c8.chunk.js.map": "/url-formatter/static/js/2.701e78c8.chunk.js.map",
+    "index.html": "/url-formatter/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/url-formatter/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.076486a0.chunk.css.map": "/url-formatter/static/css/main.076486a0.chunk.css.map",
+    "static/js/2.701e78c8.chunk.js.LICENSE.txt": "/url-formatter/static/js/2.701e78c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad7ebb14.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.701e78c8.chunk.js",
+    "static/css/main.076486a0.chunk.css",
+    "static/js/main.245d9230.chunk.js"
+  ]
+}
